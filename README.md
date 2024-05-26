@@ -1,2 +1,2 @@
 # sd-min-heap
-A simple example of Min Heap Implementation in C# Language
+A simple example of Min Heap implementation in C# language.
